@@ -15,7 +15,7 @@ I turn ideas into functional projects — from beautifully animated websites to 
 
 ## 🚀 Quick About Me
 
-- 🎓 **ECE Student** (1st Year)  
+- 🎓 **ECE Student** (2nd Year)  
 - 💻 **FrontEnd Developer** — HTML
 - 🤖 **AI Builder** — Interested To Do 
 - 🐧 **Linux & Cybersecurity** — Enthusism 
