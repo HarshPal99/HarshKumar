@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm Harsh Pal
+# 👋 Hi, I'm Harsh Kumar
  FrontEnd Developer | AI Enthusiast | Linux Explorer**
 
 **Front End Developer
